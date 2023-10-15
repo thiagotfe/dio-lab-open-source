@@ -1,5 +1,5 @@
 ## Olá, meu nome é Thiago Freitas
-É um prazer te conhecer 😃<br>
+É um prazer te conhecer<br>
 Sou Analista de TI e Programador.
 
 ### Conecte-se comigo
